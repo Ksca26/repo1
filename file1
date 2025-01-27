@@ -1,7 +1,7 @@
-class java ()
-{
+class java () from dev2
+{ from dev2
 public static void main(string args [])
-{
+{ from dev2
  Syatem.out.println("hello)
  }
 }
