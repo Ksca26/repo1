@@ -1,13 +1,11 @@
 
 
-public static void main(string args [])
 
-=======
-class java () from dev1
-{ from dev1
+
+class java ()
+{
 public static void main(string args [])
-{ from de1
->>>>>>> 93cd59045eda552668411c5af50f9fd22ef1afd4
+{ 
  Syatem.out.println("hello)
  }
 }
