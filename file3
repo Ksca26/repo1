@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class car()from dev2
 {
 public satic void main(string args[])from dev2
@@ -5,3 +6,12 @@ public satic void main(string args[])from dev2
 system.out.println("my name is mclern german")
 }
 }from dev2
+=======
+ class car()from dev1
+ {
+ public static void main(string args[])from dev1
+ {
+ sysytem.out.println("my name is mclern german")from dev1
+ }
+ }
+>>>>>>> 2891b7d6356a28da06b186b723ba6969f0611143

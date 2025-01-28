@@ -1,11 +1,7 @@
 
+class hello()
+{public static void main(string args [])
+ {
+  system.out.println()
+  }}
 
-
-
-class java ()
-{
-public static void main(string args [])
-{ 
- Syatem.out.println("hello world")
- }
-}
