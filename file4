@@ -1,0 +1,7 @@
+class car()
+{
+public satic void main(string args())
+{
+sysytem.out.println("my name is mclern")
+}
+}
