@@ -1,6 +1,6 @@
- class car()from dev1
+ class car() from dev1
  {
- public static void main(string args[])from dev1
+ public static void main(string args[]) from dev1
  {
  sysytem.out.println("my name is mclern german") from dev1
  }
