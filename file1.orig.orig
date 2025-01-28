@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+class hello()
+{
+public static void main(string args [])
+ {
+  system.out.println()
+  }
+=======
+
+
+
+
+class java ()
+{
+public static void main(string args [])
+{ 
+ Syatem.out.println("hello world")
+ }
+>>>>>>> e39270d21d185f11920d64952be09adc6614647f
+}
