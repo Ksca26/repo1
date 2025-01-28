@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+class car()from dev2
+{
+public satic void main(string args[])from dev2
+{
+system.out.println("my name is mclern german")
+}from dev2
+{
+system.out.println("hundai japan ")
+}
+}
+=======
+ class car()from dev1
+ {
+ public static void main(string args[])from dev1
+ {
+<<<<<<< HEAD
+ sysytem.out.println("my name is mclern german")
+ }from dev1
+ {
+  system.out.println(" hundai japan")
+  }
+  }
+=======
+ sysytem.out.println("my name is mclern german")from dev1
+ }
+ }
+>>>>>>> 2891b7d6356a28da06b186b723ba6969f0611143
+>>>>>>> 0c84e17a656d81983021684501e578ddd822c3e5
