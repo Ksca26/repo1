@@ -1,21 +1,20 @@
 <<<<<<< HEAD
+class hello()
+{
+public static void main(string args [])
+ {
+  system.out.println()
+  }
+=======
+
+
+
+
 class java ()
-{ 
+{
 public static void main(string args [])
 { 
- Syatem.out.println("hello java")
-=======
-
-
-public static void main(string args [])
-
-=======
-class java () from dev1
-{ from dev1
-public static void main(string args [])
-{ from de1
->>>>>>> 93cd59045eda552668411c5af50f9fd22ef1afd4
- Syatem.out.println("hello)
->>>>>>> f6d67de8db797cc904e91947d3f75d0096a2e91c
+ Syatem.out.println("hello world")
  }
+>>>>>>> e39270d21d185f11920d64952be09adc6614647f
 }
