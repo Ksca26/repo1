@@ -6,6 +6,6 @@ class java ()
 {
 public static void main(string args [])
 { 
- Syatem.out.println("hello)
+ Syatem.out.println("hello world")
  }
 }
