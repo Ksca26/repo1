@@ -1,7 +1,10 @@
 class car()
-{
+{from dev1
 public satic void main(string args())
-{
+{from dev1
 sysytem.out.println("my name is mclern")
 }
-}
+{
+ system.out.println("Ferrari itlay")from dev1
+ }
+ }
