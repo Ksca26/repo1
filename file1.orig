@@ -1,20 +1,17 @@
+
 <<<<<<< HEAD
-class hello()
-{
-public static void main(string args [])
- {
-  system.out.println()
-  }
+class hello()doge1
 =======
-
-
-
-
-class java ()
+class hello()dodge2
+>>>>>>> 98f721d0be857d4a7237823f16ec717fafff7b0d
 {
-public static void main(string args [])
-{ 
- Syatem.out.println("hello world")
- }
->>>>>>> e39270d21d185f11920d64952be09adc6614647f
-}
+<<<<<<< HEAD
+public static void main(string args [])dodge2
+=======
+public static void main(string args [])dodge1
+>>>>>>> e2ffb69c303eff02f4a2045ed11faa74ba913a7d
+{
+  system.out.println()dodge1
+  }
+  }dodge2
+
