@@ -1,9 +1,9 @@
 
-class hello()dev2
+class hello()
 {
-public static void main(string args [])dev2
+public static void main(string args [])
 {
-  system.out.println()dev2
+  system.out.println()
   }
   }
 
