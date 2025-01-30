@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 class hello()doge1
+=======
+class hello()dodge2
+>>>>>>> 98f721d0be857d4a7237823f16ec717fafff7b0d
 {
 public static void main(string args [])dodge1
 {
