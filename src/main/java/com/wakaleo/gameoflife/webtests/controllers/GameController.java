@@ -41,7 +41,7 @@ public class GameController {
                                         final HttpServletRequest request) {
 
         Universe universe = universeInstanciatedFromClickedCells(rows, columns, request);
-        thinkABit(200); // Pause for random time
+        thinkABit(250); // Pause for random time
 
         return showGridScreen(universe);
     }
